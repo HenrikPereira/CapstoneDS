@@ -1,4 +1,4 @@
 ,City,NomadScore,CostPerMonth,Internet_Mbps_avg,WeatherCelsiusNow,Airqualitynow_mcg_cubicm,Fun,Safety,Qualityoflife,Peopledensity_sqrKm,Walkability,Peace,Trafficsafety,Hospitals,Happiness,Nightlife,FreeWiFiincity,Placestoworkfrom,ACorheating,Friendlytoforeigners,Englishspeaking,Freedomofspeech,Racialtolerance,Femalefriendly,LGBTfriendly,StartupScore
-0,new-york-city,3.56,5239,21,32,23.0,5,4,4,10000,5,3,5,4,4,5,5,5,3,5,5,4,4,4,5,3
-1,toronto,3.32,3331,18,27,59.0,4,4,4,4000,5,4,5,4,5,5,4,5,3,4,5,5,5,4,5,3
-2,lisbon,3.77,2346,15,24,43.0,4,4,4,6000,5,4,5,1,3,3,3,5,3,4,4,5,3,4,4,3
+0,new-york-city,3.64,5239,23,33,8.0,5,4,4,10000,5,3,5,4,4,5,5,5,3,5,5,4,4,4,5,3
+1,toronto,3.36,3332,18,27,72.0,4,4,4,4000,5,4,5,4,5,5,4,5,3,4,5,5,5,4,5,3
+2,lisbon,3.79,2346,15,26,24.0,4,4,4,6000,5,4,5,1,3,3,3,5,3,4,4,5,3,4,4,3
